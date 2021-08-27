@@ -2,6 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/liltekos?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/liltekos)
 
+![](https://komarev.com/ghpvc/?username=akshatkant)
+
+
 ## I'm a Tech Enthusiast.
 
 - 🔭 I like to try out new stuff
@@ -33,7 +36,14 @@
 <br />
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatkant&show_icons=true)
+
+
+
+
+
+
 
 
 
