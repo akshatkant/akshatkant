@@ -38,6 +38,7 @@
 ---
 
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatkant&show_icons=true)
+![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 
 
