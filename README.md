@@ -41,6 +41,16 @@
 <img src="https://i.pinimg.com/originals/af/af/2a/afaf2a1a497b57e053c045b2ea78bb07.gif" width="386" height="252"/>
 
 
+<!-- <div align="center">
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatkant&theme=highcontrast" align="center" width="35%"></a>
+ </div> -->
+ 
+ ## 💹**Activity Graph**
+
+![ github activity graph](https://activity-graph.herokuapp.com/graph?username=akshatkant&theme=github-light&area=true)
+ <br />
+
+
 
 
 
