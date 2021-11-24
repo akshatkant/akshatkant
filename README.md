@@ -45,10 +45,6 @@
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatkant&theme=highcontrast" align="center" width="35%"></a>
  </div> -->
  
- ## 💹**Activity Graph**
-
-![ github activity graph](https://activity-graph.herokuapp.com/graph?username=akshatkant&theme=github-light&area=true)
- <br />
 
 
 
