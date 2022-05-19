@@ -11,7 +11,7 @@
 - 🌱 I’m currently doing android development 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my github
-- ⚡ Fun fact: GTA V is the best game ever!!
+- ⚡ Fun fact: Far Cry Series is the best!!!!!
 
 ### Connect with me:
 
