@@ -11,7 +11,6 @@
 - 🌱 I’m currently doing android development 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: Contribute more to my github
-- ⚡ Fun fact: Far Cry Series is the best!!!!!
 
 ### Connect with me:
 
@@ -62,7 +61,6 @@
 
 [website]: https://github.com/akshatkant
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/liltekos
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://www.linkedin.com/in/akshat-kant-thakur-773b191a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5le8X6GESzqr815TNTd1Tw%3D%3D
