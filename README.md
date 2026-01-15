@@ -10,7 +10,7 @@
 - 🔭 I like to try out new stuff
 - 🌱 I’m currently doing android development 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to my github
+- 🥅 2026 Goals: Contribute more to my github
 - ⚡ Fun fact: Far Cry Series is the best!!!!!
 
 ### Connect with me:
